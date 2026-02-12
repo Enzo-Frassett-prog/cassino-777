@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Cassino Demo - TCC</title>
+
+<style>
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#121212;
+  color:white;
+  text-align:center;
+}
+
+header{
+  background:#1e1e1e;
+  padding:15px;
+  font-size:22px;
+}
+
+.container{
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  margin-top:30px;
+}
+
+.card{
+  background:#1f1f1f;
+  padding:20px;
+  margin:15px;
+  width:220px;
+  border-radius:10px;
+}
+
+button
